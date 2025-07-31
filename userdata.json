@@ -1,0 +1,319 @@
+{
+  "Maxim": {
+    "hashedPassword": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ\u003d",
+    "faecher": {
+      "Mathematik": {
+        "name": "Mathematik",
+        "noten": [
+          {
+            "wert": 6.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 6.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 6.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 5.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Katholische_Religion": {
+        "name": "Katholische_Religion",
+        "noten": [
+          {
+            "wert": 5.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Deutsch": {
+        "name": "Deutsch",
+        "noten": [
+          {
+            "wert": 5.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 5.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Englisch": {
+        "name": "Englisch",
+        "noten": [
+          {
+            "wert": 2.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Physik": {
+        "name": "Physik",
+        "noten": [
+          {
+            "wert": 4.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 5.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 5.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 5.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Chemie": {
+        "name": "Chemie",
+        "noten": [
+          {
+            "wert": 4.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 6.0,
+            "gewichtung": 2.0
+          },
+          {
+            "wert": 5.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Geschichte": {
+        "name": "Geschichte",
+        "noten": [
+          {
+            "wert": 3.0,
+            "gewichtung": 1.5
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 1.5
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 0.5
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 0.5
+          },
+          {
+            "wert": 4.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Geographie": {
+        "name": "Geographie",
+        "noten": [
+          {
+            "wert": 5.0,
+            "gewichtung": 1.5
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 1.5
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Wirtschaft und Recht": {
+        "name": "Wirtschaft und Recht",
+        "noten": [
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Sport": {
+        "name": "Sport",
+        "noten": [
+          {
+            "wert": 4.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "Musik": {
+        "name": "Musik",
+        "noten": [
+          {
+            "wert": 4.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 1.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 1.0
+          }
+        ]
+      },
+      "IT": {
+        "name": "IT",
+        "noten": [
+          {
+            "wert": 6.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 2.0,
+            "gewichtung": 1.0
+          },
+          {
+            "wert": 3.0,
+            "gewichtung": 1.0
+          }
+        ]
+      }
+    }
+  }
+}
