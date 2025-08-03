@@ -123,19 +123,5 @@ public class Login {
             System.out.println("Willkommen, " + username + "! Sie sind erfolgreich angemeldet.");
         }
     }
-
-    public static void login1() {
-        String pw = "Maxim1234!";
-        String bn = "Maxim";
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Geben sie ihren Nutzernamen ein");
-        String username = scanner.next();
-        System.out.println("Willkommen " + username + "bitte gib dein Passwort ein.");
-        String passwort = scanner.next();
-        if (Objects.equals(passwort, pw)) {
-            System.out.println("Willkommen " + username);
-        } else {
-            System.out.println("Falsches Passwort oder Benutzername!");
-        }
-    }
 }
+
